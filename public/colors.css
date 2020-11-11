@@ -1,0 +1,11 @@
+body {
+    /* Primary */
+    --primary: #212121;
+    --primary-light: #484848;
+    --primary-dark: #000000;
+
+    /* Secondary */
+    --secondary: #f44336;
+    --secondary-light: #ff7961;
+    --secondary-dark: #ba000d;
+}
